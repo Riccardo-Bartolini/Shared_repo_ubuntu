@@ -1,0 +1,10 @@
+# Compiled module
+.Module.symvers.cmd
+*.ko.cmd
+*.mod.cmd
+*.mod.o.cmd
+*.o.cmd
+.modules.order.cmd
+
+# Disk images
+*.img
